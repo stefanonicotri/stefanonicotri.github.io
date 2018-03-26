@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/stefanonicotri
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stefanonicotri.github.io
+  * I am stefanonicotri (https://keybase.io/stefanonicotri) on keybase.
+  * I have a public key ASCfoSHGDmY-rXLiUPLXl8toqEr1awo9wWJPrvmqUreprAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209fa121c60e663ead72e250f2d797cb68a84af56b0a3dc1624faef9aa52b7a9ac0a",
+      "host": "keybase.io",
+      "kid": "01209fa121c60e663ead72e250f2d797cb68a84af56b0a3dc1624faef9aa52b7a9ac0a",
+      "uid": "8fd46c5bc43c6d354570fff6032c5919",
+      "username": "stefanonicotri"
+    },
+    "merkle_root": {
+      "ctime": 1522069507,
+      "hash": "421c4d86e24a50860fb5acc389d8860a0efc38d0b5c7e3b631b87c9e97a35df732fc10b29195f3a3c5f3f73d9b6c99a8e663f007fc9117677dadf1c50834cde7",
+      "hash_meta": "687fcdfb7c8db81b35b26e4f2f777b8856ffa0b36a6a58fbbb008142f3b13599",
+      "seqno": 2289285
+    },
+    "service": {
+      "hostname": "stefanonicotri.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522069522,
+  "expire_in": 504576000,
+  "prev": "3d3cbc861b69e73e6a67d4324127c63fc5ec0ffb131cf39ce4cbd6b5c6be879e",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn6Ehxg5mPq1y4lDy15fLaKhK9WsKPcFiT675qlK3qawKp3BheWxvYWTFA1d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWZhMTIxYzYwZTY2M2VhZDcyZTI1MGYyZDc5N2NiNjhhODRhZjU2YjBhM2RjMTYyNGZhZWY5YWE1MmI3YTlhYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWZhMTIxYzYwZTY2M2VhZDcyZTI1MGYyZDc5N2NiNjhhODRhZjU2YjBhM2RjMTYyNGZhZWY5YWE1MmI3YTlhYzBhIiwidWlkIjoiOGZkNDZjNWJjNDNjNmQzNTQ1NzBmZmY2MDMyYzU5MTkiLCJ1c2VybmFtZSI6InN0ZWZhbm9uaWNvdHJpIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyMDY5NTA3LCJoYXNoIjoiNDIxYzRkODZlMjRhNTA4NjBmYjVhY2MzODlkODg2MGEwZWZjMzhkMGI1YzdlM2I2MzFiODdjOWU5N2EzNWRmNzMyZmMxMGIyOTE5NWYzYTNjNWYzZjczZDliNmM5OWE4ZTY2M2YwMDdmYzkxMTc2NzdkYWRmMWM1MDgzNGNkZTciLCJoYXNoX21ldGEiOiI2ODdmY2RmYjdjOGRiODFiMzViMjZlNGYyZjc3N2I4ODU2ZmZhMGIzNmE2YTU4ZmJiYjAwODE0MmYzYjEzNTk5Iiwic2Vxbm8iOjIyODkyODV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3RlZmFub25pY290cmkuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjIwNjk1MjIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiM2QzY2JjODYxYjY5ZTczZTZhNjdkNDMyNDEyN2M2M2ZjNWVjMGZmYjEzMWNmMzljZTRjYmQ2YjVjNmJlODc5ZSIsInNlcW5vIjoyNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBk3AkNFlNCdmghVc2wRa7QCoHwdpeR6BI94scbMMfe31kWr6PiYnzffh/HPVjeOG+i/imHqcmMv0pfOdqCx3AFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgKRqDRe+l6fjrwJpyJN94aJvYviwNdthVFDOwmBdVawujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stefanonicotri
+
+==================================================================
